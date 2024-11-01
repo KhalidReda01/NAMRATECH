@@ -1,7 +1,7 @@
 import Home3 from "./(homes)/home-3/page";
 export const metadata = {
-  title: "Home 1 || Techbe-IT Solution & Technology Service Nextjs Template",
-  description: "Techbe-IT Solution & Technology Service Nextjs Template",
+  title: "Home || NAMRA TECH Solution & Technology Service ",
+  description: "NAMRA TECH Solution & Technology Service ",
 };
 export default function Page() {
   return (
