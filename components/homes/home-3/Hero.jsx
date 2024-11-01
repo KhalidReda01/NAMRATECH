@@ -116,37 +116,37 @@ export default function Hero() {
               height="16"
             />
           </div>
-          <div className="shape3_10 moveAround4 d-xl-block d-none">
+          {/* <div className="shape3_10 moveAround4 d-xl-block d-none">
             <Image
               alt="shape"
               src="/assets/img/shape/heroShape3_10.png"
               width="13"
               height="16"
             />
-          </div>
-          <div className="shape3_10 d-xl-block d-none">
+          </div> */}
+          {/* <div className="shape3_10 d-xl-block d-none">
             <Image
               alt="shape"
               src="/assets/img/shape/heroShape3_10.png"
               width="13"
               height="16"
             />
-          </div>
-          <div className="shape3_11 spin d-xl-block d-none">
+          </div> */}
+          {/* <div className="shape3_11 spin d-xl-block d-none">
             <Image
               alt="shape"
               src="/assets/img/shape/heroShape3_11.png"
               width="26"
               height="37"
             />
-          </div>
+          </div> */}
           <div className="shape3_12 pulse d-xl-block d-none">
-            <Image
+            {/* <Image
               alt="shape"
               src="/assets/img/shape/heroShape3_12.png"
               width="13"
               height="16"
-            />
+            /> */}
           </div>
           <div
             className="shape3_13 d-xxl-block d-none wow fadeInRight"
@@ -154,12 +154,12 @@ export default function Hero() {
             data-tilt=""
             data-tilt-max={10}
           >
-            <Image
+            {/* <Image
               alt="shape"
               src="/assets/img/shape/heroShape3_13.png"
               width="606"
               height="606"
-            />
+            /> */}
           </div>
           <div
             className="shape3_14 d-xxl-block d-none wow fadeInRight"
@@ -167,12 +167,12 @@ export default function Hero() {
             data-tilt=""
             data-tilt-max={10}
           >
-            <Image
+            {/* <Image
               alt="shape"
               src="/assets/img/shape/heroShape3_14.png"
               width="606"
               height="606"
-            />
+            /> */}
           </div>
           <div
             className="thumb1 d-xxl-block d-none wow fadeInRight"
@@ -183,8 +183,8 @@ export default function Hero() {
             <Image
               alt="shape"
               src="/assets/img/hero/heroThumb3_1.png"
-              width="277"
-              height="471"
+              width="400"
+              height="400"
             />
           </div>
           <div
@@ -193,12 +193,12 @@ export default function Hero() {
             data-tilt=""
             data-tilt-max={17}
           >
-            <Image
+            {/* <Image
               alt="shape"
               src="/assets/img/hero/heroThumb3_2.png"
               width="277"
               height="470"
-            />
+            /> */}
           </div>
           <div className="container">
             <div className="row">
@@ -216,7 +216,7 @@ export default function Hero() {
                         height="12"
                       />
                     </span>
-                    MOST POPULAR MOBILE APP
+                    NAMRA TECH
                     <span className="ms-1">
                       <Image
                         alt="icon"
