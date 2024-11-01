@@ -1,4 +1,4 @@
-import Home2 from "./(homes)/home-2/page";
+import Home3 from "./(homes)/home-3/page";
 export const metadata = {
   title: "Home 1 || Techbe-IT Solution & Technology Service Nextjs Template",
   description: "Techbe-IT Solution & Technology Service Nextjs Template",
@@ -6,7 +6,7 @@ export const metadata = {
 export default function Page() {
   return (
     <>
-      <Home2 />
+      <Home3 />
     </>
   );
 }
