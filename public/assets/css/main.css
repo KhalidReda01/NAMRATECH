@@ -73,9 +73,9 @@ Version: 1.0.0
 /*------------------- 1.1. Mixin -------------------*/
 /*------------------- 1.2. Variable-------------------*/
 :root {
-  --theme-color: #384bff;
-  --theme-color2: #b42af3;
-  --title-color: #17012c;
+  --theme-color: #31cdb0;
+  --theme-color2: #3551a4;
+  --title-color: #22907b;
   --body-color: #726b7d;
   --smoke-color: #f6f5fd;
   --smoke-color2: #cfd3fc;
