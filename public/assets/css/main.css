@@ -4617,7 +4617,7 @@ textarea.is-invalid {
   left: 0;
   width: 457px;
   height: 109px;
-  background: linear-gradient(90deg, #b42af3 0%, #384bff 83.46%);
+  background: linear-gradient(90deg, #3551a4 0%, #31cdb0 83.46%);
   clip-path: polygon(0px 0px, 421.5px 0px, 457px 109px, 0px 109px, 0px 0px);
   z-index: 1;
   /* Extra large devices */
@@ -10458,7 +10458,7 @@ textarea.is-invalid {
   -o-border-radius: 30px;
   display: flex;
   align-items: center;
-  justify-content:flex-end;
+  justify-content: flex-end;
   gap: 47px;
   /* Large devices */
   /* Medium devices */
