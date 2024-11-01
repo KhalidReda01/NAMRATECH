@@ -13,8 +13,8 @@ import Services from "@/components/homes/home-3/Services";
 import Skills from "@/components/homes/home-3/Skills";
 import Testimonials from "@/components/homes/home-3/Testimonials";
 export const metadata = {
-  title: "Home 3 || Techbe-IT Solution & Technology Service Nextjs Template",
-  description: "Techbe-IT Solution & Technology Service Nextjs Template",
+  title: "HomePage || Namra Solution & Technology Service",
+  description: "Techbe-IT Solution & Technology Service ",
 };
 export default function Page() {
   return (
