@@ -6,8 +6,8 @@ import Cta from "@/components/common/Cta";
 import Projects from "@/components/otherPages/project/Projects";
 import Link from "next/link";
 export const metadata = {
-  title: "Project || Techbe-IT Solution & Technology Service Nextjs Template",
-  description: "Techbe-IT Solution & Technology Service Nextjs Template",
+  title: "Project || TNAMRATECH-IT Solution & Technology Service ",
+  description: "NAMRATECH-IT Solution & Technology Service",
 };
 export default function Page() {
   return (

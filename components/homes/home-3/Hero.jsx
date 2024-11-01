@@ -184,7 +184,7 @@ export default function Hero() {
               alt="shape"
               src="/assets/img/hero/heroThumb3_1.png"
               width="400"
-              height="400"
+              height="450"
             />
           </div>
           <div
