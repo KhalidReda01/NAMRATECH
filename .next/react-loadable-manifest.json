@@ -1,0 +1,14 @@
+{
+  "app\\layout.jsx -> bootstrap/dist/js/bootstrap.esm": {
+    "id": "app\\layout.jsx -> bootstrap/dist/js/bootstrap.esm",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_bootstrap_dist_js_bootstrap_esm_js.js"
+    ]
+  },
+  "components\\homes\\home-3\\Hero.jsx -> ../../../public/assets/js/tilt.min.js": {
+    "id": "components\\homes\\home-3\\Hero.jsx -> ../../../public/assets/js/tilt.min.js",
+    "files": [
+      "static/chunks/_app-pages-browser_public_assets_js_tilt_min_js.js"
+    ]
+  }
+}
