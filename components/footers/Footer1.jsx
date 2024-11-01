@@ -85,7 +85,7 @@ export default function Footer1() {
                       </Link>
                     </div>
                     <p className="about-text">
-                      TechBe IT is a dynamic and innovative technology company
+                      NAMRA TECH is a dynamic and innovative technology company
                       dedicated to solutions.
                     </p>
                     <div className="gt-social style2">
@@ -231,7 +231,7 @@ export default function Footer1() {
               <p className="copyright">
                 <i className="fal fa-copyright" /> All Copyright 2024 by
                 <Link scroll={false} href={`/`}>
-                  Techbe
+                  NAMRA TECH
                 </Link>
               </p>
             </div>
