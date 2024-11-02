@@ -131,7 +131,7 @@
       -o-transition: background 0.4s ease;
 
       &:hover {
-        background: linear-gradient(90deg, #384bff 0%, #b42af3 123.82%);
+        background: linear-gradient(90deg, #f28e26 0%, #fd644f 123.82%);
       }
     }
 
@@ -139,7 +139,7 @@
       border-left: 4px solid $theme-color;
 
       .arrow-icon {
-        background: linear-gradient(90deg, #384bff 0%, #b42af3 123.82%);
+        background: linear-gradient(90deg, #f28e26 0%, #fd644f 123.82%);
       }
     }
   }
@@ -151,7 +151,7 @@
     padding: 10px 29px;
     gap: 8px;
     border-radius: 5000px;
-    background: linear-gradient(90deg, #384bff 0%, #b42af3 123.82%);
+    background: linear-gradient(90deg, #f28e26 0%, #fd644f 123.82%);
     -webkit-border-radius: 5000px;
     -moz-border-radius: 5000px;
     -ms-border-radius: 5000px;
