@@ -34,7 +34,7 @@ export default function Screenshoots() {
         className="app-screenshot-wrap space fix"
         data-bg-src=""
         style={{
-          backgroundImage: "url(/assets/img/bg/.appScreenshotBg1_1png)",
+          backgroundImage: "url(/assets/img/bg/appScreenshotBg1_1.png)",
         }}
       >
         <div className="container">
