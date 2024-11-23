@@ -1,5 +1,5 @@
 export const footerLinks = [
-  { href: "/about", text: "Techbe About" },
+  { href: "/about", text: " About Namra Tech " },
   { href: "/service-1", text: "Our Services" },
   { href: "/blog-details/1", text: "Our Blogs" },
   { href: "/faq", text: "FAQ’S" },

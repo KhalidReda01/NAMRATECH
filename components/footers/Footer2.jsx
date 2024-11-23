@@ -95,8 +95,8 @@ export default function Footer2() {
                     </div>
                     <p className="about-text">
                       {" "}
-                      NAMRA TECH is a dynamic and innovative technology company
-                      dedicated to solutions.
+                      We're experts at what we do, software development is our
+                      game. you can count on us to make your idea come true.
                     </p>
                     <div className="gt-social style2">
                       {socialLinks2.map((link, index) => (
@@ -177,13 +177,13 @@ export default function Footer2() {
                       <li className="text-white">
                         <i className="fa-thin fa-envelope" />
                       </li>
-                      <li className="text-white">info@example.com</li>
+                      <li className="text-white">info@namratech.com</li>
                     </ul>
                     <ul className="ps-0">
                       <li className="text-white">
                         <i className="fa-light fa-phone-volume" />
                       </li>
-                      <li className="text-white">+208-6666-0112</li>
+                      <li className="text-white">+20 155 42 42 0 47</li>
                     </ul>
                     <form
                       ref={form}

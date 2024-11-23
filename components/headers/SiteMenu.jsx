@@ -80,7 +80,7 @@ export default function SiteMenu() {
             <div className="about-logo">
               <Link href="/">
                 <Image
-                  alt="techo"
+                  alt="namratech"
                   src="/assets/img/logo-dark.png"
                   width="199"
                   height="42"
@@ -88,8 +88,8 @@ export default function SiteMenu() {
               </Link>
             </div>
             <p className="text">
-              Rapidiously myocardinate cross-platform intellectual capital
-              model. Appropriately create interactive infrastructures
+              We're experts at what we do, software development is our game. you
+              can count on us to make your idea come true.
             </p>
           </div>
         </div>
@@ -106,8 +106,8 @@ export default function SiteMenu() {
                 />
               </div>
               <div className="details">
-                <p>789 Inner Lane, Holy park,</p>
-                <p>California, USA</p>
+                <p>Mina Elnasr Mogama Elmahakom,</p>
+                <p>Mansura ,Egypt</p>
               </div>
             </div>
             <div className="info-box_text">
@@ -122,12 +122,12 @@ export default function SiteMenu() {
               <div className="details">
                 <p>
                   <a href="tel:+0123456789" className="info-box_link">
-                    +01 234 567 890
+                    +20 15 5424 2047
                   </a>
                 </p>
                 <p>
                   <a href="tel:+09876543210" className="info-box_link">
-                    +09 876 543 210
+                    +20 10 1753 4073
                   </a>
                 </p>
               </div>
@@ -147,7 +147,7 @@ export default function SiteMenu() {
                     href="mailto:mailinfo00@techo.com"
                     className="info-box_link"
                   >
-                    mailinfo00@techo.com
+                    info@namratech.com
                   </a>
                 </p>
                 <p>
@@ -155,7 +155,7 @@ export default function SiteMenu() {
                     href="mailto:support24@techo.com"
                     className="info-box_link"
                   >
-                    support24@techo.com
+                    support@namratech.com
                   </a>
                 </p>
               </div>

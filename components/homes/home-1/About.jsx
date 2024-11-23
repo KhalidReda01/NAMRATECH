@@ -87,8 +87,8 @@ export default function About() {
                         width="28"
                         height="12"
                       />
-                    </span>{' '}
-                    What We Do{' '}
+                    </span>{" "}
+                    What We Do{" "}
                     <span>
                       <Image
                         alt="icon"
@@ -143,7 +143,7 @@ export default function About() {
                       />
                     </div>
                     <div className="fancy-box_content">
-                      <h4>Ronald Richards</h4>
+                      <h4>Khalid Reda</h4>
                       <span>Co, Founder</span>
                     </div>
                   </div>
