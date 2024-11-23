@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://namratech.com
+
+# Sitemaps
+Sitemap: https://namratech.com/sitemap.xml
