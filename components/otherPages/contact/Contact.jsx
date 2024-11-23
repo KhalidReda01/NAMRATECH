@@ -76,7 +76,7 @@ export default function Contact() {
                       <div className="content">
                         <p>Call Us 7/24</p>
                         <h3>
-                          <a href="tel:+2085550112">+208-555-0112</a>
+                          <a href="tel:+20 15 5424 2047">+20 15 5424 2047</a>
                         </h3>
                       </div>
                     </div>
@@ -107,7 +107,7 @@ export default function Contact() {
                         <p>Make a Quote</p>
                         <h3>
                           <a href="mailto:infotech@gmail.com">
-                            Infotech@gmail.com
+                            info@namratech.com
                           </a>
                         </h3>
                       </div>
@@ -137,7 +137,7 @@ export default function Contact() {
                       </div>
                       <div className="content">
                         <p>Location</p>
-                        <h3>4517 Washington ave.</h3>
+                        <h3>Mansoura eg</h3>
                       </div>
                     </div>
                   </div>
@@ -171,8 +171,8 @@ export default function Contact() {
                           width="28"
                           height="12"
                         />
-                      </span>{' '}
-                      Contact us{' '}
+                      </span>{" "}
+                      Contact us{" "}
                       <span>
                         <Image
                           alt="icon"
@@ -184,9 +184,8 @@ export default function Contact() {
                     </h5>
                     <h2 className="title mb-50">Ready to Get Started?</h2>
                     <p>
-                      Nullam varius, erat quis iaculis dictum, eros urna varius
-                      eros, ut blandit felis odio in turpis. Quisque rhoncus,
-                      eros in auctor ultrices,
+                      We're experts at what we do, software development is our
+                      game. you can count on us to make your idea come true.
                     </p>
                   </div>
                   <form

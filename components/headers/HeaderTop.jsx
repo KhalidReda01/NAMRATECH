@@ -8,13 +8,13 @@ export default function HeaderTop() {
           <ul className="contact-list">
             <li>
               <i className="far fa-envelope" />
-              <a href="mailto:info@example.com" className="link">
+              <a href="mailto:info@namratech.com" className="link">
                 info@namratech.com
               </a>
             </li>
             <li>
               <i className="fa-solid fa-phone-volume" />
-              <a href="tel:2086660112">+20 15 5424 2047</a>
+              <a href="tel:+201554242047">+20 15 5424 2047</a>
             </li>
           </ul>
           <div className="top-right">
