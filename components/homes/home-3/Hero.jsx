@@ -232,9 +232,9 @@ export default function Hero() {
                     className="hero-title wow fadeInLeft"
                     data-wow-delay=".4s"
                   >
-                    <span className="title1">Creating </span>
-                    <span className="title2">Software &</span>
-                    <span className="title3"> Digital Excellence </span>
+                    <span className="title1">Design and Build </span>
+                    <span className="title2">web & Moblie apps</span>
+                    <span className="title3"> E-commerce stores </span>
                   </h1>
                   <div
                     className="checklist wow fadeInLeft"
@@ -280,7 +280,7 @@ export default function Hero() {
                         EXPLORE MORE
                       </Link>
                     </div>
-                    <div className="video-btn-wrap">
+                    {/* <div className="video-btn-wrap">
                       <a
                         onClick={() => setOpen(true)}
                         className="play-btn popup-video"
@@ -293,7 +293,7 @@ export default function Hero() {
                         />
                       </a>
                       <span className="ms-3">play reel</span>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>

@@ -65,8 +65,8 @@ export default function About() {
                         width="28"
                         height="12"
                       />
-                    </span>{' '}
-                    About us Techbe{' '}
+                    </span>{" "}
+                    About us NamraTech{" "}
                     <span>
                       <Image
                         alt="icon"
