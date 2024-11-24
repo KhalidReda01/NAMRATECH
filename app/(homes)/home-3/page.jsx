@@ -13,8 +13,8 @@ import Services from "@/components/homes/home-3/Services";
 import Skills from "@/components/homes/home-3/Skills";
 import Testimonials from "@/components/homes/home-3/Testimonials";
 export const metadata = {
-  title: "HomePage || Namra Solution & Technology Service",
-  description: "Techbe-IT Solution & Technology Service ",
+  title: "HomePage || NamraTech Solution & Technology Service",
+  description: "NamraTech Solution & Technology Service ",
 };
 export default function Page() {
   return (
