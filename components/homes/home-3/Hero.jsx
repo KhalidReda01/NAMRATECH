@@ -3,6 +3,7 @@ import Link from "next/link";
 
 import { useEffect, useState } from "react";
 import Image from "next/image";
+import { socialLinks3 } from "@/data/socials.js";
 import ModalVideo from "react-modal-video";
 
 export default function Hero() {
@@ -279,6 +280,13 @@ export default function Hero() {
                       >
                         EXPLORE MORE
                       </Link>
+                    </div>
+                    <div className="gt-social  ">
+                      {socialLinks3.map((link, index) => (
+                        <a href={link.href} key={index}>
+                          <i className={link.iconClass} />
+                        </a>
+                      ))}
                     </div>
                     {/* <div className="video-btn-wrap">
                       <a
