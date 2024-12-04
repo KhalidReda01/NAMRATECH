@@ -21,7 +21,7 @@ export const socialLinks3 = [
     iconClass: "fab fa-facebook-f",
   },
   {
-    href: "https://www.linkedin.com/company/namratech//",
+    href: "https://www.linkedin.com/company/namratech",
     iconClass: "fab fa-linkedin-in",
   },
   { href: "https://x.com/NamraTech", iconClass: "fab fa-twitter" },
@@ -29,6 +29,7 @@ export const socialLinks3 = [
     href: "https://www.youtube.com/@NamraTech-eg",
     iconClass: "fab fa-youtube",
   },
+  { href: "https://www.behance.com/", iconClass: "fab fa-behance" },
   {
     href: "https://www.instagram.com/namratech/",
     iconClass: "fab fa-instagram",
